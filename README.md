@@ -35,6 +35,9 @@ Data Source: Sales dataset, cleaned and prepared for analysis.
 Skills Demonstrated:
 
 Advanced Power BI visualization techniques, including bar charts, pie charts, and line graphs.
+
 Data transformation and modeling within Power BI.
+
 Insights generation through interactive dashboards and filters.
+
 This project showcases the power of visual analytics to drive meaningful insights and enhance business strategies.
